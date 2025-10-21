@@ -1,0 +1,5 @@
+{
+  "name": "Station V - Virtual World Editor",
+  "description": "A utility for creating, managing, and generating diverse AI personalities for the Station V - Virtual IRC Simulator. Build your virtual communities, customize their traits, and export them as JSON or CSV files.",
+  "requestFramePermissions": []
+}
